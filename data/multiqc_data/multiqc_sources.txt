@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR8668755_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668755_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668756_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668756_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668757_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668757_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668758_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668758_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668759_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668759_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668769_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668769_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668771_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668771_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668772_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668772_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668773_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668773_10K_subsample_fastqc.zip
+FastQC	all_sections	SRR8668774_10K_subsample	/mnt/c/Users/Keren/CAMB7140/data/SRR8668774_10K_subsample_fastqc.zip

@@ -1,0 +1,7 @@
+# Compressed files
+*.gz
+*.zip
+
+# Kallisto index (generated)
+*.index
+data/*.index
